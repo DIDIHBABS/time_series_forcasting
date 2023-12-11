@@ -1,7 +1,7 @@
 # Advanced Forecasting and Anomaly detection on Time Series
 This repository is a Series on Forecasting and Anomaly detection in python featuring various algorithms with end-to-end deployment using Fast API ...
 
-### Models
+## Featured Models
 - Dart
 - Prophet
 - KNN
