@@ -1,13 +1,8 @@
-# Advanced Forecasting and Anomaly detection on Time Series
-This repository is a Series on Forecasting and Anomaly detection in python featuring various algorithms with end-to-end deployment using Fast API ...
+# Time Series Forecasting and Anomaly detection in Python 
 
-## Featured Models
-- ARMA
-- ARIMA
-- Prophet
-- KNN
-- RadomForest
-- XGBoost and Neural Nertworks 
+
+This repository explores various techniques, including ARMA, ARIMA, Facebook Prophet, KNN, XGBoost, Random Forest and LSTM, for analysis, forecasting, and anomaly detection. It  features end-to-end deployment using Fast API and Streamlit
+
 
 
  Some of the models are adopted from  [ Advanced Forecasting with Python ](https://link.springer.com/book/10.1007/978-1-4842-7150-6) by Joos Korstanje (Apress, 2021), 
@@ -18,9 +13,10 @@ This repository is a Series on Forecasting and Anomaly detection in python featu
 
 
 ### Data Source
-UC Irvine Machine Learning Repository:
+UC Irvine Machine Learning Repository and Kaggle 
 
-[Data Repo](https://archive.ics.uci.edu)
+[Data Repo](https://archive.ics.uci.edu) 
+
 
 # License
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
