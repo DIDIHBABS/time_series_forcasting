@@ -1,4 +1,10 @@
 # Traffic Volume Forecast
+Problem Statement 🧠
+Business Objective:
+To forecast Sunspot levels for an organization so that the organization can follow government norms withrespect to Co2 emission levels.
+
+Data Set Details:
+Time parameter and levels of Co2 emission
 
 AN API that predicts the Hourly traffic volume on Minneapolis-St Paul based on weather conditions, date and time.
 
